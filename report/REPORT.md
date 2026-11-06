@@ -1,11 +1,5 @@
 # Báo cáo Thực hành Ngày 1: Đọc và phân tích kết quả dự đoán YOLO11
 
-Họ và tên học viên: Nguyễn Văn A
-Mã học viên: Student_01
-Lớp: AI-ML-DL
-
----
-
 ## 1. Phân loại ảnh (Image Classification) với `yolo11n-cls.pt`
 - **Ảnh đầu vào**: `traffic.jpg` (COCO Image ID: 210273)
 - **Lớp dự đoán có độ tin cậy cao nhất (Rank 1)**:
